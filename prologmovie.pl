@@ -57,7 +57,7 @@ movie('Spider-Man: Into the Spider-Verse', [spider_man, multiverse]).
 match(Keyword) :- 
     movie(Title, Tags), 
     member(Keyword, Tags),
-    write('🎬 '), write(Title), nl.
+    write('🎬 Movie: '), write(Title), nl.
 
 % ============================================
 % TOP RATED MOVIES
