@@ -1,4 +1,4 @@
-% MOVIE DATASET FOR PROJECT
+% MOVIE DATASET FOR PROJECT AIML
 % Prolog Movie Recommendation System
 % Features: keyword match, top rated, list all, similar movies
 movie('The Shawshank Redemption', [prison, drama, hope]).
@@ -52,7 +52,7 @@ movie('Avengers: Infinity War', [marvel, superhero, infinity]).
 movie('Spider-Man: Into the Spider-Verse', [spider_man, multiverse]).
 
 % ============================================
-% KEYWORD MATCHING
+% KEYWORD MATCHING 
 % ============================================
 match(Keyword) :- 
     movie(Title, Tags), 
