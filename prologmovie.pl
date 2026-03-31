@@ -84,6 +84,7 @@ list_all :-
     forall(member(M, Movies), (write('  '), write(M), nl)).
 
 length_movies(50).  % Pre-calculated for speed
+% Finds movies with at least one common tag
 similar(Movie) :- 
     movie(Movie, Tags), 
     member(Tag, Tags), 
