@@ -1,4 +1,6 @@
 % MOVIE DATASET FOR PROJECT
+% Prolog Movie Recommendation System
+% Features: keyword match, top rated, list all, similar movies
 movie('The Shawshank Redemption', [prison, drama, hope]).
 movie('The Godfather', [crime, mafia, family]).
 movie('The Godfather Part II', [crime, mafia, revenge]).
