@@ -152,4 +152,8 @@ Download from: https://www.swi-prolog.org/
 
 ## Author
 
-Developed as part of an academic project to demonstrate basic AI concepts using Prolog.
+*Name:* Naman Gupta
+*Registration Number:* 25BAI11448
+*Branch:* CSE(AI&ML)  
+*Year:* First Year  
+*Institution:* VIT Bhopal University
